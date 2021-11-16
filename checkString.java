@@ -1,4 +1,4 @@
-class GFG {
+class sahil {
     
     public static boolean checkPangram(String str)
     {
